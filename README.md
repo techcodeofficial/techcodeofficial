@@ -3,7 +3,7 @@
 ### HELLO MY FRIEND👋🤗.
 
 # READ ABOUT ME:
-<h3>hello i am mohammad afrwzeh from iran</h3>
+<h3>hello i am mohammad afrwzeh</h3>
 <h4>I am 18 years old.</h4>
 <h5>the JavaScript js my love.</h5>
 <h6>JavaScript IS power💪</h6>
@@ -19,16 +19,17 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=techcodeofficial)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=techcodeofficial&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo 🔝
 ![](https://github-contributor-stats.vercel.app/api?username=techcodeofficial&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-### support me in iran🤗🤩
+### buy coffee for me in iran ☕🤩
 
 <a href="https://www.coffeebede.com/techcodeofficial"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=techcodeofficial&label=Profile%20Views&color=12&icon=2&pretty=true)](https://github.com/techcodeofficial)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
