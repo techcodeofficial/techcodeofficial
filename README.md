@@ -5,7 +5,7 @@
 # READ ABOUT ME:
 <h3>hello i am mohammad afrwzeh</h3>
 <h4>I am 18 years old.</h4>
-<h5>the JavaScript js my love.</h5>
+<h5>the JavaScript my love.</h5>
 <h6>JavaScript IS power💪</h6>
 
 
