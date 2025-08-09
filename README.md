@@ -2,7 +2,8 @@
 ### HELLO MY FRIEND👋🤗.
 
 # READ ABOUT ME:
-<h3>hello i am mohammad afrwzeh</h3>
+<h2>hello i am mohammad afrwzeh</h2>
+<h3>KURDISH</h3>
 <h4>Born on May 27, 2006 on Saturday at 3 am in <a href="https://www.google.com/maps/place/Bukan,+West+Azerbaijan+Province/data=!4m2!3m1!1s0x400305a2df24492d:0x3844765707afaaa3?utm_source=mstt_1&entry=gps&g_ep=CAESCTExLjY2LjYwMhgAIIgnKgksOTQyMjY5NjZCAklS"><b>Bokan</b></a> city time</h4>
 <h5>the JavaScript my love.</h5>
 <h6>JavaScript IS power💪</h6>
